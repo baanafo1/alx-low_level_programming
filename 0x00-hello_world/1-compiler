@@ -1,6 +1,9 @@
 #!/bin/bash
 gcc -c $CFILE -o ./${CFILE//'.c'/'.o'}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> ebd29cee456ab7bdc6927a1be47f9a33eedc4b4e
+=======
+>>>>>>> c22abf35ff83b2cbbed4337018b2f0b75604c098
